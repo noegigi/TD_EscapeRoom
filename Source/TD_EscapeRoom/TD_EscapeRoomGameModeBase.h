@@ -13,5 +13,4 @@ UCLASS()
 class TD_ESCAPEROOM_API ATD_EscapeRoomGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
 };
